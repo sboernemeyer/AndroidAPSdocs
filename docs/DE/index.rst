@@ -1,7 +1,7 @@
-Deutsch (Specific)
+Deutsch (spezifisch)
 ===================
 
-In diesem Bereich befinden sich einige wenige deutsche Inhalte, die entweder spezifisch deutsch sind oder die noch nicht in die englische Dokumentation übertragen worden sind.
+In diesem Bereich befinden sich einige wenige deutsche Inhalte, die entweder spezifisch deutsch sind, oder die noch nicht in die englische Dokumentation übertragen worden sind.
   
 AndroidAPS installieren
 ------------
